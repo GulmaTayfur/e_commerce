@@ -1,0 +1,374 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Akıllı Telefon",
+      "make": "XYZ",
+      "model": "A1",
+      "price": 1500,
+      "stockAmount": 50,
+      "color": "Siyah",
+      "specs": [
+        "4G LTE bağlantısı",
+        "64 GB depolama",
+        "5.5 inç ekran"
+      ],
+      "image": "https://picsum.photos/201"
+    },
+    {
+      "id": "2",
+      "title": "Dizüstü Bilgisayar",
+      "make": "ABC",
+      "model": "B2",
+      "price": 3000,
+      "stockAmount": 30,
+      "color": "Gümüş",
+      "specs": [
+        "Intel Core i7 işlemci",
+        "16 GB RAM",
+        "512 GB SSD"
+      ],
+      "image": "https://picsum.photos/202"
+    },
+    {
+      "id": "3",
+      "title": "Kablosuz Kulaklık",
+      "make": "DEF",
+      "model": "C3",
+      "price": 150,
+      "stockAmount": 100,
+      "color": "Beyaz",
+      "specs": [
+        "Bluetooth 5.0",
+        "Dokunmatik kontrol",
+        "20 saat pil ömrü"
+      ],
+      "image": "https://picsum.photos/203"
+    },
+    {
+      "id": "4",
+      "title": "Akıllı Saat",
+      "make": "GHI",
+      "model": "D4",
+      "price": 500,
+      "stockAmount": 20,
+      "color": "Metal Gri",
+      "specs": [
+        "GPS takibi",
+        "Kalp atış hızı sensörü",
+        "Su geçirmez"
+      ],
+      "image": "https://picsum.photos/204"
+    },
+    {
+      "id": "5",
+      "title": "Akıllı Televizyon",
+      "make": "KLM",
+      "model": "E5",
+      "price": 2500,
+      "stockAmount": 40,
+      "color": "Siyah",
+      "specs": [
+        "4K Ultra HD",
+        "Smart TV",
+        "50 inç ekran"
+      ],
+      "image": "https://picsum.photos/205"
+    },
+    {
+      "id": "6",
+      "title": "Oyun Bilgisayarı",
+      "make": "NOP",
+      "model": "F6",
+      "price": 4000,
+      "stockAmount": 25,
+      "color": "RGB Aydınlatmalı",
+      "specs": [
+        "NVIDIA GeForce RTX 3080",
+        "32 GB RAM",
+        "1 TB NVMe SSD"
+      ],
+      "image": "https://picsum.photos/206"
+    },
+    {
+      "id": "14",
+      "title": "Bluetooth Hoparlör",
+      "make": "QRS",
+      "model": "G7",
+      "price": 120,
+      "stockAmount": 80,
+      "color": "Mavi",
+      "specs": [
+        "Kablosuz şarj",
+        "Taşınabilir",
+        "10 saat pil ömrü"
+      ],
+      "image": "https://picsum.photos/207"
+    },
+    {
+      "id": "7",
+      "title": "Kamera Seti",
+      "make": "TUV",
+      "model": "H8",
+      "price": 800,
+      "stockAmount": 15,
+      "color": "Siyah",
+      "specs": [
+        "4 adet kamera",
+        "Gece görüşü",
+        "Hareket algılama"
+      ],
+      "image": "https://picsum.photos/208"
+    },
+    {
+      "id": "8",
+      "title": "Kablosuz Fare",
+      "make": "XYZ",
+      "model": "F9",
+      "price": 80,
+      "stockAmount": 60,
+      "color": "Siyah",
+      "specs": [
+        "Ergonomik tasarım",
+        "1200 DPI hassasiyet",
+        "Çift yönlü kaydırma"
+      ],
+      "image": "https://picsum.photos/209"
+    },
+    {
+      "id": "9",
+      "title": "Akıllı Bilezik",
+      "make": "ABC",
+      "model": "B10",
+      "price": 120,
+      "stockAmount": 35,
+      "color": "Pembe",
+      "specs": [
+        "Kalp atış hızı izleme",
+        "Adım sayar",
+        "Uyku takibi"
+      ],
+      "image": "https://picsum.photos/210"
+    },
+    {
+      "id": "10",
+      "title": "Taşınabilir SSD",
+      "make": "DEF",
+      "model": "C11",
+      "price": 200,
+      "stockAmount": 45,
+      "color": "Gri",
+      "specs": [
+        "500 GB depolama",
+        "USB-C bağlantı",
+        "Hızlı veri transferi"
+      ],
+      "image": "https://picsum.photos/211"
+    },
+    {
+      "id": "11",
+      "title": "Klavye, Mouse Seti",
+      "make": "GHI",
+      "model": "D12",
+      "price": 150,
+      "stockAmount": 25,
+      "color": "RGB Aydınlatmalı",
+      "specs": [
+        "Mechanical tuşlar",
+        "Programlanabilir tuşlar",
+        "Optik oyun faresi"
+      ],
+      "image": "https://picsum.photos/212"
+    },
+    {
+      "id": "12",
+      "title": "Akıllı Termostat",
+      "make": "IJK",
+      "model": "E13",
+      "price": 180,
+      "stockAmount": 60,
+      "color": "Beyaz",
+      "specs": [
+        "Wi-Fi bağlantısı",
+        "Programlanabilir",
+        "Uzaktan kontrol"
+      ],
+      "image": "https://picsum.photos/213"
+    },
+    {
+      "id": "13",
+      "title": "Yazıcı ve Tarayıcı",
+      "make": "LMN",
+      "model": "F14",
+      "price": 250,
+      "stockAmount": 40,
+      "color": "Siyah",
+      "specs": [
+        "Wi-Fi bağlantısı",
+        "Renkli baskı",
+        "20 sayfa dakikada"
+      ],
+      "image": "https://picsum.photos/214"
+    },
+    {
+      "id": "15",
+      "title": "USB Şarj Adaptörü",
+      "make": "OPQ",
+      "model": "G15",
+      "price": 25,
+      "stockAmount": 200,
+      "color": "Beyaz",
+      "specs": [
+        "Hızlı şarj",
+        "Taşınabilir",
+        "Çoklu cihaz desteği"
+      ],
+      "image": "https://picsum.photos/215"
+    },
+    {
+      "id": "16",
+      "title": "Şarj Cihazı",
+      "make": "RST",
+      "model": "H16",
+      "price": 100,
+      "stockAmount": 50,
+      "color": "Siyah",
+      "specs": [
+        "Güneş enerjisi ile şarj",
+        "Taşınabilir",
+        "Çift USB çıkışı"
+      ],
+      "image": "https://picsum.photos/216"
+    },
+    {
+      "id": "17",
+      "title": "Güvenlik Kamerası",
+      "make": "UVW",
+      "model": "I17",
+      "price": 150,
+      "stockAmount": 30,
+      "color": "Beyaz",
+      "specs": [
+        "1080p HD video",
+        "Gece görüşü",
+        "Hareket algılama"
+      ],
+      "image": "https://picsum.photos/217"
+    },
+    {
+      "id": "18",
+      "title": "Bluetooth Klavye",
+      "make": "XYZ",
+      "model": "J18",
+      "price": 60,
+      "stockAmount": 80,
+      "color": "Siyah",
+      "specs": [
+        "Katlanabilir tasarım",
+        "iOS, Android, Windows",
+        "Dahili pil"
+      ],
+      "image": "https://picsum.photos/218"
+    },
+    {
+      "id": "19",
+      "title": "Kulaklık",
+      "make": "ABC",
+      "model": "K19",
+      "price": 180,
+      "stockAmount": 40,
+      "color": "Siyah",
+      "specs": [
+        "Aktif gürültü engelleme",
+        "Bluetooth 5.1",
+        "40 saat pil ömrü"
+      ],
+      "image": "https://picsum.photos/219"
+    },
+    {
+      "id": "20",
+      "title": "Şarj Cihazı",
+      "make": "DEF",
+      "model": "L20",
+      "price": 40,
+      "stockAmount": 100,
+      "color": "Beyaz",
+      "specs": [
+        "Qi uyumlu",
+        "Hızlı şarj",
+        "Taşınabilir"
+      ],
+      "image": "https://picsum.photos/220"
+    },
+    {
+      "id": "21",
+      "title": "Kameralı Drone",
+      "make": "GHI",
+      "model": "M21",
+      "price": 600,
+      "stockAmount": 20,
+      "color": "Siyah",
+      "specs": [
+        "4K video çözünürlüğü",
+        "Uzun uçuş süresi",
+        "GPS destekli"
+      ],
+      "image": "https://picsum.photos/221"
+    },
+    {
+      "id": "22",
+      "title": "Grafik Tablet",
+      "make": "IJK",
+      "model": "N22",
+      "price": 200,
+      "stockAmount": 30,
+      "color": "Siyah",
+      "specs": [
+        "8192 seviye",
+        "Kalem ve kalem kutusu",
+        "Çizim yazılımı"
+      ],
+      "image": "https://picsum.photos/222"
+    },
+    {
+      "id": "23",
+      "title": "Otomasyon Seti",
+      "make": "LMN",
+      "model": "O23",
+      "price": 300,
+      "stockAmount": 15,
+      "color": "Beyaz",
+      "specs": [
+        "Akıllı priz",
+        "Akıllı aydınlatma",
+        "Ses kontrolü ile uyumlu"
+      ],
+      "image": "https://picsum.photos/223"
+    },
+    {
+      "id": "24",
+      "title": "Video Kamera",
+      "make": "OPQ",
+      "model": "P24",
+      "price": 400,
+      "stockAmount": 10,
+      "color": "Siyah",
+      "specs": [
+        "360 derece video çekimi",
+        "Yüksek çözünürlük",
+        "Wi-Fi bağlantısı"
+      ],
+      "image": "https://picsum.photos/224"
+    }
+  ],
+  "basket": [
+    {
+      "id": "3",
+      "make": "DEF",
+      "model": "C3",
+      "price": 150,
+      "image": "https://picsum.photos/203",
+      "amount": 3
+    }
+  ]
+}
